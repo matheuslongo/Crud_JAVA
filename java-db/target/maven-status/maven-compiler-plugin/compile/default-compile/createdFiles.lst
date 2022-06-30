@@ -1,0 +1,6 @@
+com/codandosomples/model/Aplication.class
+com/codandosomples/model/Categoria.class
+com/codandosomples/dao/IDespesaDao.class
+com/codandosomples/infra/ConectionFactory.class
+com/codandosomples/model/Despesa.class
+com/codandosomples/dao/DespesaDao.class
